@@ -1,0 +1,17 @@
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/install/local.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/install.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/install/strip.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/list_install_components.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/edit_cache.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/widget.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/autobuild.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/test_widget_files.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/test-tree.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/widget_files.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/rebuild_cache.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/populate.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/remote-target-populate.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/test_widget.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/prepare_package_test.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/prepare_package.dir
+/home/boron/Documents/agl-app/agl-liq-build/build/CMakeFiles/widget-target-install.dir
